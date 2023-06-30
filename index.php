@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+
+
 <div class="container">
     <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
       <div class="col-md-3 mb-2 mb-md-0">
@@ -21,7 +24,7 @@
       <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
         <li><a href="#" class="nav-link px-2 link-secondary">Home</a></li>
         <li><a href="#" class="nav-link px-2">Features</a></li>
-        <li><a href="#" class="nav-link px-2">Pricing</a></li>
+        <li><a href="#" class="nav-link px-2">Pricing</a></li>/ 
         <li><a href="#" class="nav-link px-2">FAQs</a></li>
         <li><a href="#" class="nav-link px-2">About</a></li>
       </ul>
@@ -45,6 +48,45 @@
         </div>
       </div>
     </div>
+
+    <div class="row">
+
+      <div class="col-md-4">
+      <div class="card" >
+  <img src="./uploads/recipes/1-chocolate-au-mousse.jpg" class="card-img-top" alt="chocolate">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+      </div>
+</div>
+
+      <div class="col-md-4">
+      <div class="card">
+  <img src="./uploads/recipes/2-gratin-dauphinois.jpg" class="card-img-top" alt="gratin">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+      </div>
+</div>
+
+      <div class="col-md-4">
+      <div class="card">
+  <img src="./uploads/recipes/3-salade.jpg" class="card-img-top" alt="chocolate">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+      </div>
+
+    </div>
+
+
+
 
     <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
     <div class="col mb-3">
